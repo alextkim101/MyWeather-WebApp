@@ -1,0 +1,4 @@
+San Francisco|CA|United States|37.77|122.42|5:42am|5:43pm|59|48|59|70|30.07|9.00|8.21|270|foggy
+Stockholm|Uppland|Sweden|59.19|18.4|8:17am|4:23pm|37|31|39|93|30|10.00|10|300|cold|cloudy
+Philadelphia|Pennsylvania|United States|39.95|75.17|6:12am|7:34pm|30|20|35|38|25|9|5|200|sunny|cold|dry
+Toronto|Ontario|Canada|51.25|85.32|4:56am|8:45pm|56|43|56|54|30.10|10.20|8.00|270|chilly
