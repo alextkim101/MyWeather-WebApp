@@ -158,7 +158,7 @@
 		}
 	</script>
 	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8WlY75l6SUWTaiprpm102tAP6Dk1ViQo"
+		src="GOOGLE_API_KEY"
 		async defer></script>
 	<script type="text/javascript">
 		function signout() {
